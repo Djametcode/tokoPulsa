@@ -55,7 +55,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    height: 250px;
+    height: 275px;
     margin: 50px;
     border-radius: 20px;
     gap: 10px;
@@ -88,4 +88,5 @@ body {
     padding: 10px;
     text-align: center;
     color: white;
+    margin: 0;
 }
