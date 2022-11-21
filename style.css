@@ -55,11 +55,11 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    height: 275px;
+    height: 100%;
     margin: 50px;
     border-radius: 20px;
     gap: 10px;
-    padding-top: 9%;
+    padding: 9% 0 9%;
 }
 .welcome-menu {
     font-size: 25px;
@@ -89,4 +89,7 @@ body {
     text-align: center;
     color: white;
     margin: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
